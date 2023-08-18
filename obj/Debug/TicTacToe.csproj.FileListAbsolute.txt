@@ -5,3 +5,10 @@ C:\Users\Sergei\RiderProjects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.Sug
 C:\Users\Sergei\RiderProjects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
 C:\Users\Sergei\RiderProjects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
 C:\Users\Sergei\RiderProjects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\sergei.maltcev\Projects\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\sergei.maltcev\Projects\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\sergei.maltcev\Projects\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\sergei.maltcev\Projects\TicTacToe\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\sergei.maltcev\Projects\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\sergei.maltcev\Projects\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\sergei.maltcev\Projects\TicTacToe\obj\Debug\TicTacToe.pdb

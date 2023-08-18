@@ -29,6 +29,7 @@ namespace TicTacToe
                 if (HasWon(board, currentPlayer.Symbol))
                 {
                     Console.WriteLine($"{currentPlayer.Symbol} has won!");
+                    Console.ReadLine();
                     return;
                 }
 
